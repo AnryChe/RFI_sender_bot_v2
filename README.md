@@ -1,0 +1,1 @@
+The second version of the bot. Added ability to query AI (does not work without paid subscription). Added substitution of surnames from night duty schedule. Also added function for processing and formatting of ITD data (as build documentation)
